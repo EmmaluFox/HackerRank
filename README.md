@@ -1,1 +1,1 @@
-Record of interesting HackerRank solutions for personal reference.
+Record of my HackerRank solutions for personal reference.
